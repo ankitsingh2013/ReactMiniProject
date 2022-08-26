@@ -7,8 +7,8 @@ import "./styles.css";
 export default function App() {
   return (
     <React.Fragment>
-      {/* <FunctinalComponent />
-      <ClassComponent /> */}
+      <FunctinalComponent />
+      <ClassComponent />
       <PostFormatComponent />
     </React.Fragment>
   );
